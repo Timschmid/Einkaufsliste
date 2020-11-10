@@ -2,7 +2,7 @@
 
 ## Zur Person
 Name: 			Tim Schmid
->![Foto von Tim](Tim.jpg)
+>![Foto von Tim](Tim.JPG)
 Gebohren: 		21.12.1999
 
 Anschrift: 		ErfundenerWeg 3, 79865 Grafenhausen
