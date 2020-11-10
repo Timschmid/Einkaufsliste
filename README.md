@@ -25,16 +25,25 @@ Familienstand: 		ledig
 ## Hobbys und Stärken
 
 Kenstnisse:	
-	* Java
-	* c++
-	* C#
-	* HMTL
-	* css
+
+* Java
+
+* c++
+
+* C#
+
+* HMTL
+
+* css
 
 
 Hobbys:			
-	* genau
-	* und
-	* so
-	* weiter			
+
+* genau
+
+* und
+
+* so
+
+* weiter			
 
