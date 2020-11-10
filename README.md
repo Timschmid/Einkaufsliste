@@ -1,6 +1,6 @@
-#Lebenslauf
+# Lebenslauf
 
-##Zur Person
+## Zur Person
 Name: 			Tim Schmid
 Gebohren: 		21.12.1999
 Anschrift: 		ErfundenerWeg 3 
@@ -8,12 +8,12 @@ Anschrift: 		ErfundenerWeg 3
 Email: 			tim.schmid@hs-furtwangen.de
 Familienstand: 		ledig
 
-##Schulischer Werdegang
+## Schulischer Werdegang
 2006-2011		Grundschule-Grafenhausen
 2011-2016		Werkrealschule Grafenahsuen
 2016-2019		Technisches Gymnasium Informatik Waldshut-Tiengen
 
-##Hobbys und Stärken
+## Hobbys und Stärken
 
 Kenstnisse:		*Java
 			*c++
