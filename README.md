@@ -5,8 +5,7 @@ Name: 			Tim Schmid
 
 Gebohren: 		21.12.1999
 
-Anschrift: 		ErfundenerWeg 3 
-			79865 Grafenhausen
+Anschrift: 		ErfundenerWeg 3, 79865 Grafenhausen
 
 Email: 			tim.schmid@hs-furtwangen.de
 
